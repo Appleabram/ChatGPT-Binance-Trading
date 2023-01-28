@@ -1,6 +1,6 @@
 Implemented internal logic to pick best pairs to trade with using ChatGPT algorithm. Buy and Sell automatic process.
 
-![alt text](https://github.com/JoeKaram78/ChatGPT-Binance-Trading/blob/main/images/screen.png?raw=true)
+![alt text](https://github.com/JoeKaram78/ChatGPT-Binance-Trading/blob/main/screen.png?raw=true)
 
 Requirements:
 - .Net framework 4.6.1
