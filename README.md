@@ -8,7 +8,15 @@
   <a href="https://codecov.io/gh/kefranabg/readme-md-generator">
     <img src="https://codecov.io/gh/kefranabg/readme-md-generator/branch/master/graph/badge.svg" />
   </a>
+  <a href="https://github.com/frinyvonnick/gitmoji-changelog">
+    <img src="https://img.shields.io/badge/changelog-gitmoji-brightgreen.svg" alt="gitmoji-changelog">
+  </a>
+  <a href="https://twitter.com/axieinfinity">
+    <img alt="Twitter: axieinfinity" src="https://img.shields.io/twitter/follow/axieinfinity.svg?style=social" target="_blank" />
+  </a>
+  <img alt="Twitter: axieinfinity" src="https://coinquora.com/wp-content/uploads/2022/04/Axie-Tech-Joins-Axie-Infinity-Announces-Origins-All-New-Arena-Mode.jpg" target="_blank" />
 </p>
+
 ### What is it?
 The Binance trading bot for .NET is an advanced software program designed to automate trading operations on the Binance cryptocurrency exchange using the Binance trading API. It is written in C# using the .NET framework and includes an advanced algorithm written by ChatGPT to select the best trading pairs based on configurable criteria.
 
